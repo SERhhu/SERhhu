@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/SERhhu/Apple",
-  "repository": "https://github.com/SERhhu/Apple",
+  "website": "https://github.com/SERhhu/SERhhu",
+  "repository": "https://github.com/SERhhu/SERhhu",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
